@@ -4,3 +4,6 @@ Who are you?
 Welcome 
 New feature
 One more
+Fix first bug
+Second bug
+And finally third
