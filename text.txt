@@ -2,3 +2,4 @@ Inital commit
 Write email component
 Add sendSMS service
 Change dir structure
+Task2
