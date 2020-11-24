@@ -1,1 +1,14 @@
+<<<<<<< HEAD
 Inital commit
+=======
+Some text
+Something else
+Who are you?
+Welcome 
+New feature
+One more
+Fix first bug
+Second bug
+And finally third
+Feature
+>>>>>>> d22ee2a177db4d4821a4706f411a0a95c324d3fb
