@@ -4,3 +4,9 @@ Who are you?
 Welcome 
 New feature
 One more
+<<<<<<< HEAD
+=======
+Fix first bug
+Second bug
+And finally third
+>>>>>>> bug_fix
