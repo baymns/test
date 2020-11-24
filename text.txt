@@ -7,3 +7,4 @@ One more
 Fix first bug
 Second bug
 And finally third
+Feature
