@@ -1,3 +1,6 @@
-Some text
-Something else
-It's new changes
+
+Inital commit
+Write email component
+Add sendSMS service
+Change dir structure
+
